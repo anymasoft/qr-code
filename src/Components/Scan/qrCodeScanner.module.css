@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    height: 40vh;
+}
+
+.result {
+    font-size: 50px;
+    font-family: Calibri;
+    margin-bottom: 30px;
+}
+
+
+
+
